@@ -7,6 +7,8 @@
   ✉️ lincolnble@hotmail.com
   ✉️ lincoln.wallace@unifei.edu.br
   
-  🔗 [Linkedin](https://www.linkedin.com/in/lincoln-wallace-64ab29138/)
+  🔗 [My_Site](http://bit.ly/CV_LINCOLN "Lincoln's website")
+
+  🔗 [Linkedin](https://www.linkedin.com/in/lincoln-wallace-64ab29138/ "Lincoln's Linkedin")
   
 
