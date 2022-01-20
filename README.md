@@ -10,7 +10,7 @@
   🔗 [My_Site](http://bit.ly/CV_LINCOLN "Lincoln's website")      🔗 [Linkedin](https://www.linkedin.com/in/lincoln-wallace-64ab29138/ "Lincoln's Linkedin")
   
  <div>
-  <a href="https://github.com/LOCNNIL">
+  <a href="http://bit.ly/CV_LINCOLN">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LOCNNIL&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOCNNIL&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
