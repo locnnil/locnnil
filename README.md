@@ -2,7 +2,7 @@
    
    :books: Currently coursing Graduation in Electronic Engineering at Federal University of Itajubá
    
-   :computer: Currently working with firmware development for structural safety monitoring systems (instrumentation for dams) on Solver Tecnologies. 
+   :computer: Currently working with firmware development for IoT devices destined to industrial monitoring of the telecommunication, enviroment, sanitation, Oil & gas and energy sectors. 
             
   ✉️ lincolnble@hotmail.com
   ✉️ lincoln.wallace@unifei.edu.br
