@@ -1,6 +1,6 @@
-   :pushpin: Interested in Eletronics area, subjects related with Embedded Systems (Firmware development, Bare Metal Systems, Real Time Operational Systems, Embedded Linux Development), Control Systems, Flight Control Systems, Digital Signal processing algoritmos, Python, Computer Vision (artificial neural networks themes).
+   :pushpin: Interested in Computer Engineering area, subject related with Embedded Linux and general topics in Embedded Systems (Firmware development, Bare Metal Systems, Real Time Operational Systems, Embedded Linux Development), Control Systems, Flight Control Systems, Digital Signal processing algoritmos, Python, Computer Vision (artificial neural networks themes).
    
-   :books: Currently coursing Graduation in Electronic Engineering at Federal University of Itajubá
+   :books: Currently finishing Graduation in Electronic Engineering at Federal University of Itajubá.
    
    :computer: Currently working with firmware development for IoT devices destined to industrial monitoring of the telecommunication, enviroment, sanitation, Oil & gas and energy sectors. 
             
@@ -25,4 +25,3 @@
   <img align="center" alt="Lincoln-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
 <!--Remeber to add a gif  here!-->
-   
