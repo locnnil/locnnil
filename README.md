@@ -25,7 +25,7 @@
   <img align="center" alt="Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></img>
   <img align="center" alt="bash"  height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></img>
   <br />
-  <img align="center" alt="linux"  height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"></img>
+  <img align="center" alt="linux"  height="45" width="60" src="https://icongr.am/devicon/linux-original.svg"></img>
   <img align="center" alt="android"  height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"></img>
   <img align="center" alt="debian"  height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg"></img>
   <img align="center" alt="ubuntu"  height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg"></img>
