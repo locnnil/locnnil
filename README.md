@@ -1,4 +1,6 @@
-   :books: Electronic Engineer.
+   :books: Bachelor's Degree in Electronic Engineering
+   
+   📡 Embedded Systems Engineer/Software Engineer.
    
    :pushpin: Interested in Computer Engineering area, subject related with Embedded Linux and general topics in Embedded Systems (Firmware development, Bare Metal Systems, Real Time Operational Systems, Embedded Linux Development), Control Systems, Flight Control Systems, Digital Signal processing algoritmos, Python, Computer Vision (artificial neural networks themes).
    
