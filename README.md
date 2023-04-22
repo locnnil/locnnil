@@ -21,11 +21,11 @@
           
   <img align="center" alt="C" height="45" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"></img>
   <img align="center" alt="Cplusplus" height="45" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"></img>
-  <img align="center" alt="Csharp" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"></img>
   <img align="center" alt="Rust" height="67.5" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg"></img>
-  <img align="center" alt="EmbeddedC" height="45" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg"></img>
-  <img align="center" alt="Python" height="45" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></img>
+  <img align="center" alt="Go" height="67.5" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg"></img>
+  <img align="center" alt="Python" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></img>
   <img align="center" alt="bash"  height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"></img>
+  <img align="center" alt="EmbeddedC" height="45" width="60" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg"></img>
   <br />
   <img align="center" alt="linux"  height="45" width="60" src="https://icongr.am/devicon/linux-original.svg"></img>
   <img align="center" alt="android"  height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"></img>
