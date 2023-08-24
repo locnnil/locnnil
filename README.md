@@ -7,7 +7,6 @@
    :computer: Currently working with Embedded Linux development for IoT devices destined to industrial monitoring of the telecommunication, enviroment, sanitation, Oil & gas and energy sectors. 
             
   ✉️ lincolnble@hotmail.com
-  ✉️ lincoln.wallace@unifei.edu.br
   
   🔗 [My_Site](http://bit.ly/CV_LINCOLN "Lincoln's website")      🔗 [Linkedin](https://www.linkedin.com/in/lincoln-wallace-64ab29138/ "Lincoln's Linkedin")
   
