@@ -2,9 +2,9 @@
    
    📡 Embedded Systems Engineer/Embedded Linux Engineer/Software Engineer.
 
-   :pushpin: Interested in Computer Engineering area, subject related with Embedded Linux and general topics in Embedded Systems (Firmware development, Bare Metal Systems, Real Time Operational Systems, Embedded Linux Development), Control Systems, Flight Control Systems, Digital Signal processing algoritmos, Python, Computer Vision (artificial neural networks themes).
+   :pushpin: Interested in: Kernel Development, Golang, Rust, C/C++, low level stuff, love Drones and flight control systems.
    
-   :computer: Currently working with Embedded Linux development for IoT devices destined to industrial monitoring of the telecommunication, enviroment, sanitation, Oil & gas and energy sectors. 
+   :computer: Currently working at Canonical on the IoT Engineering team.
             
   ✉️ lincolnble@hotmail.com
   
