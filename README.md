@@ -1,6 +1,4 @@
    :books: Bachelor's Degree in Electronic Engineering.
-   
-   📡 Embedded Systems Engineer/Embedded Linux Engineer/Software Engineer.
 
    :pushpin: Interested in: Kernel Development, Golang, Rust, C/C++, low level stuff, love Drones and flight control systems.
    
