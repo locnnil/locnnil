@@ -20,7 +20,7 @@ jobs:
           committer_gist: ${{ secrets.COMITTER_GIST }}
           base: ""
           plugin_skyline: yes
-          plugin_skyline_frames: 120
+          plugin_skyline_frames: 30
           plugin_skyline_quality: 1
 
       - name: General
