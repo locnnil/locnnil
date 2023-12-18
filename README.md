@@ -3,8 +3,9 @@
    :pushpin: Interested in: Kernel Development, Golang, Rust, C/C++, low level stuff, love Drones and flight control systems.
    
 ## &#x1f4c8; GitHub Stats
-[<img style="width:auto; height:600px" align="center" alt="github stats" src="https://gist.githubusercontent.com/locnnil/2fab04342130c0bd90e9fe6aaf7c9a4a/raw/a0d15b1de0efd8c68f0ef855af4d0da8d6a32754/general.svg">](#)
+[<img style="width:auto; height:800px" align="center" alt="github stats" src="https://gist.githubusercontent.com/locnnil/2fab04342130c0bd90e9fe6aaf7c9a4a/raw/general.svg">](#)
 
+## 🆗 I'm good with
 <div style="display: inline_block">
   <img align="center" alt="C" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
   <img align="center" alt="Cplusplus" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"/>
