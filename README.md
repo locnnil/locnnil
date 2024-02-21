@@ -1,8 +1,9 @@
    :books: Bachelor's Degree in Electronic Engineering.<br/>
-   :pushpin: Interested in: Kernel Development, Golang, Rust, C/C++, low level stuff, love Drones and flight control systems.
+   :pushpin: Interested in: Kernel Development, IoT, Security, Golang, Rust, C/C++, low level stuff, love Drones and flight control systems.
    
 ## &#x1f4c8; GitHub Stats
 [<img style="width:auto; height:600px" align="center" alt="github stats" src="https://gist.githubusercontent.com/locnnil/2fab04342130c0bd90e9fe6aaf7c9a4a/raw/general.svg">](#)
+
 ## 🆗 My Technology Stack
 <div style="display: inline_block">
   <img align="center" alt="C" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"/>
