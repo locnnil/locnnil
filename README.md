@@ -1,4 +1,5 @@
    :books: Bachelor's Degree in Electronic Engineering.<br/>
+   :computer: Working as Software Engineer. <br/>
    :pushpin: Interested in: Linux and [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software), Kernel Development, Operating Systems, IoT, Security, Golang, Rust, C/C++.
    
 ## &#x1f4c8; GitHub Stats
