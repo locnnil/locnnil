@@ -1,9 +1,12 @@
    :books: Bachelor's Degree in Electronic Engineering.<br/>
-   :computer: Working as Software Engineer. <br/>
-   :pushpin: Interested in: Linux and [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software), systems programming, tooling development, kernel development, operating systems, security and IoT. <br/>
+   :computer: Working as **Software Engineer**. <br/>
+   :pushpin: Passionate about Linux and [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software), systems programming, operating systems, tooling development, kernel development, security, and IoT. <br/>
    :hammer: Professionally coding in Golang, Python, C, C++ and Bash. <br/>
    :telescope:	Experimenting Rust. <br/>
-   
+
+
+Would you like any further adjustments?
+
 ## &#x1f4c8; GitHub Stats
 [<img style="width:auto; height:600px" align="center" alt="github stats" src="https://gist.githubusercontent.com/locnnil/2fab04342130c0bd90e9fe6aaf7c9a4a/raw/general.svg">](#)
 
