@@ -16,6 +16,14 @@ jobs:
         with:
           wait-timeout-minutes: 5
 
+      - name: Check machine
+        run: |
+
+          uname -a
+          id -u
+          whoami
+
+
       - name: General
         if: ${{ success() || failure() }}
         uses: lowlighter/metrics@latest
