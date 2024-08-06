@@ -11,10 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
 
-      - name: Setup upterm session
-        uses: lhotari/action-upterm@v1
-        with:
-          wait-timeout-minutes: 5
+      # - name: Setup upterm session
+      #   uses: lhotari/action-upterm@v1
+      #   with:
+      #     wait-timeout-minutes: 1
 
       - name: Check machine
         run: |
