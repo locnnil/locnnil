@@ -5,8 +5,6 @@
    :telescope:	Experimenting Rust. <br/>
 
 
-Would you like any further adjustments?
-
 ## &#x1f4c8; GitHub Stats
 [<img style="width:auto; height:600px" align="center" alt="github stats" src="https://gist.githubusercontent.com/locnnil/2fab04342130c0bd90e9fe6aaf7c9a4a/raw/general.svg">](#)
 
