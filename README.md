@@ -27,4 +27,3 @@
   <img align="center" alt="android"  height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
   <img align="center" alt="rasp"  height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
 </div>
-<!--Remeber to add a gif  here!-->
