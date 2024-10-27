@@ -1,6 +1,6 @@
    :books: Bachelor's Degree in Electronic Engineering.<br/>
    :computer: Working as **Software Engineer**. <br/>
-   :pushpin: Passionate about Linux and [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software), systems programming, operating systems, tooling development, kernel development, security, and IoT. <br/>
+   :pushpin: Passionate about Linux and [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software), systems programming, operating systems, containers, tooling development, kernel development, security, and IoT. <br/>
    :hammer: Professionally coding in Golang, Rust, Python, C, C++ and Bash. <br/>
    :telescope:	Experimenting Rust. <br/>
 
