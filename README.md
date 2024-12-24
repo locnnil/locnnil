@@ -2,7 +2,7 @@
    :computer: Working as **Software Engineer**. <br/>
    :pushpin: Passionate about Linux and [FOSS](https://en.wikipedia.org/wiki/Free_and_open-source_software), systems programming, operating systems, containers, tooling development, kernel development, security, and IoT. <br/>
    :hammer: Professionally coding in Golang, Rust, Python, C, C++ and Bash. <br/>
-   :telescope:	Experimenting Rust. <br/>
+   :telescope:	Experimenting Swift. <br/>
 
 ## &#x1f4c8; GitHub Stats
 [<img style="width:auto; height:600px" align="center" alt="github stats" src="https://gist.githubusercontent.com/locnnil/2fab04342130c0bd90e9fe6aaf7c9a4a/raw/general.svg">](#)
