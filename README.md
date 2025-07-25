@@ -26,4 +26,6 @@
   <img align="center" alt="docker"  height="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
   <img align="center" alt="android"  height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
   <img align="center" alt="rasp"  height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"/>
+  <img align="center" alt="neovim" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
+          
 </div>
