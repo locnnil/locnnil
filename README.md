@@ -7,7 +7,6 @@
 ## &#x1f4c8; GitHub Stats
 
 ![locnnil's Stats](https://github-readme-stats.vercel.app/api?username=locnnil&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-![locnnil's Streak](https://github-readme-streak-stats.herokuapp.com/?user=locnnil&theme=tokyonight&hide_border=false)
 
 [<img style="width:auto; height:600px" align="center" alt="github stats" src="https://gist.githubusercontent.com/locnnil/2fab04342130c0bd90e9fe6aaf7c9a4a/raw/general.svg">](#)
 
